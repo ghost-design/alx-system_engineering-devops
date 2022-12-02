@@ -5,3 +5,4 @@ Multiple permissions
 Everybody
 JamesBond
 JohnDoe
+ Look in the mirror
