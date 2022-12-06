@@ -1,1 +1,1 @@
-6-create_local_variable 
+Global variable 
